@@ -65,9 +65,12 @@
 - 软件记录仅供日常经营管理参考。
 - 实际税务及财务申报应以当地法律法规和正式凭证为准。
 - 部分功能可能随软件版本更新而调整。
-<img width="<img width="1769" height="1215" alt="ScreenShot_2026-10-19_020125_058" src="https://github.com/user-attachments/assets/08375834-6278-4c7e-a496-83fcf5a0d0ee" /><img width="1769" height="1215" alt="ScreenShot_2026-10-19_020114_693" src="https://github.com/user-attachments/assets/4283cb3b-c248-40d9-9aef-38163d0cf853" />
-<img width="1769" height="1215" alt="ScreenShot_2026-10-19_020120_094" src="https://github.com/user-attachments/assets/0ad0b572-a4d8-41b3-84be-aaebbf310fb9" />
-<img width="1122" height="420" alt="ScreenShot_2026-10-19_020156_709" src="https://github.com/user-attachments/assets/1f819976-2d96-4821-a2b8-2ab55abd8d52" />
+<img width="1769" height="1215" alt="ScreenShot_2026-10-19_020107_522" src="https://github.com/user-attachments/assets/535a8108-d69c-4ce8-9843-e86c64412499" />
+<img width="1769" height="1215" alt="ScreenShot_2026-10-19_020114_693" src="https://github.com/user-attachments/assets/a2d0e2f7-157c-4a12-98bf-e55cc41b9531" />
+<img width="1769" height="1215" alt="ScreenShot_2026-10-19_020120_094" src="https://github.com/user-attachments/assets/7b988501-8f13-4b05-82ff-90c41e3337d6" />
+<img width="1769" height="1215" alt="ScreenShot_2026-10-19_020125_058" src="https://github.com/user-attachments/assets/5202f3e0-8651-4aac-b58b-8c698ef6a9ad" />
+<img width="1122" height="420" alt="ScreenShot_2026-10-19_020156_709" src="https://github.com/user-attachments/assets/578876c9-8f92-4c99-aa89-b5490446a896" />
+
 ---
 
 <a id="english"></a>
@@ -131,6 +134,11 @@ It simplifies everyday property management by combining guest check-ins, stay ex
 - Financial reports are intended for operational reference.
 - Tax and accounting obligations should follow applicable local laws.
 - Features may change between software releases.
+<img width="1770" height="1215" alt="ScreenShot_2026-10-19_020210_128" src="https://github.com/user-attachments/assets/3684cf9e-60c3-47b7-9d76-4663266012dd" />
+<img width="1770" height="1215" alt="ScreenShot_2026-10-19_020215_025" src="https://github.com/user-attachments/assets/58b8b19a-3c81-45dd-b4b1-8996d5660c7e" />
+<img width="1770" height="1215" alt="ScreenShot_2026-10-19_020219_102" src="https://github.com/user-attachments/assets/a19ca8fc-a49c-4e07-816c-6ca0e79d2b7d" />
+<img width="1770" height="1215" alt="ScreenShot_2026-10-19_020223_459" src="https://github.com/user-attachments/assets/6d7f7dbf-62fd-4823-b431-8bae1f2b087d" />
+<img width="1068" height="318" alt="ScreenShot_2026-10-19_020229_908" src="https://github.com/user-attachments/assets/4f4cd1ac-985b-4cd0-a153-acd021cd8142" />
 
 ---
 
@@ -195,6 +203,11 @@ It simplifies everyday property management by combining guest check-ins, stay ex
 - 集計結果は日常の運営管理を目的としています。
 - 税務申告や正式な会計処理については、各地域の法令に従ってください。
 - ソフトウェアのバージョンによって機能が変更される場合があります。
+<img width="1770" height="1215" alt="ScreenShot_2026-10-19_020236_932" src="https://github.com/user-attachments/assets/263e97d9-6061-494c-8738-0d7d3bd7720b" />
+<img width="1770" height="1215" alt="ScreenShot_2026-10-19_020242_160" src="https://github.com/user-attachments/assets/1e0f89d3-7151-4351-89a2-026b378dbaa0" />
+<img width="1770" height="1215" alt="ScreenShot_2026-10-19_020246_398" src="https://github.com/user-attachments/assets/ffb2060c-256f-4c55-bde8-58762b3ed143" />
+<img width="1770" height="1215" alt="ScreenShot_2026-10-19_020250_908" src="https://github.com/user-attachments/assets/6e10d0e8-33c9-41a5-90b3-d553a105bfa5" />
+<img width="1068" height="309" alt="ScreenShot_2026-10-19_020257_675" src="https://github.com/user-attachments/assets/d7a27093-62d3-43ba-9b50-f3a9bb3bff44" />
 
 ---
 
