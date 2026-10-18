@@ -65,7 +65,9 @@
 - 软件记录仅供日常经营管理参考。
 - 实际税务及财务申报应以当地法律法规和正式凭证为准。
 - 部分功能可能随软件版本更新而调整。
-
+<img width="<img width="1769" height="1215" alt="ScreenShot_2026-10-19_020125_058" src="https://github.com/user-attachments/assets/08375834-6278-4c7e-a496-83fcf5a0d0ee" /><img width="1769" height="1215" alt="ScreenShot_2026-10-19_020114_693" src="https://github.com/user-attachments/assets/4283cb3b-c248-40d9-9aef-38163d0cf853" />
+<img width="1769" height="1215" alt="ScreenShot_2026-10-19_020120_094" src="https://github.com/user-attachments/assets/0ad0b572-a4d8-41b3-84be-aaebbf310fb9" />
+<img width="1122" height="420" alt="ScreenShot_2026-10-19_020156_709" src="https://github.com/user-attachments/assets/1f819976-2d96-4821-a2b8-2ab55abd8d52" />
 ---
 
 <a id="english"></a>
